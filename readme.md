@@ -136,6 +136,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Tarsier](https://github.com/reworkd/tarsier) - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
+-  [TestDino](https://github.com/TestDinoHQ)) -Playwright reporting and debugging platform that turns noisy test runs into clear insights so you can fix browser automation failures faster. ![GitHub Repo stars]
 
 ## AI Web Scrapers/Crawlers
 
@@ -147,7 +148,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API you can rely on.
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
-- [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
+- [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://github.com/TestDinoHQ?tab=stars))
 
 ## Web Search & Query Tools
 
