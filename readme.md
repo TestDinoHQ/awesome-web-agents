@@ -136,6 +136,8 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Tarsier](https://github.com/reworkd/tarsier) - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
+- [TestDino](https://github.com/TestDinoHQ) - Clear test reporting and debugging platform turning noisy runs into insights for faster browser automation fixes. ![GitHub Repo stars](https://img.shields.io/github/stars/testdino-hq/testdino-mcp?style=social)
+  
 
 ## AI Web Scrapers/Crawlers
 
